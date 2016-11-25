@@ -1,0 +1,7 @@
+#Thu Nov 24 19:13:26 BRST 2016
+base.0=C\:\\Users\\gabri\\Desktop\\Positivo\\Sistemas Embarcados I\\CarrinhoRemoto2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3d291fad0a4b9364c40c13f6080261a307330a42
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\gabri\\Desktop\\Positivo\\Sistemas Embarcados I\\CarrinhoRemoto2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e2880653707d4d4d6591f4d1994b0f02431aae53\\classes.dex
+base.1=C\:\\Users\\gabri\\Desktop\\Positivo\\Sistemas Embarcados I\\CarrinhoRemoto2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e2880653707d4d4d6591f4d1994b0f02431aae53
+file.0=C\:\\Users\\gabri\\Desktop\\Positivo\\Sistemas Embarcados I\\CarrinhoRemoto2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3d291fad0a4b9364c40c13f6080261a307330a42\\classes.dex

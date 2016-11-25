@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2a07c9a53fe59b75a2f0ef15f2dca1833bf6858">
+        <dex dex="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3d291fad0a4b9364c40c13f6080261a307330a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_7a8f63b6fd106202e4cb88f9dde3235a50becfed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_b76a87bea2d5054faafe79d7a16323607aa711a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_dcab282026751de5229afcf4c107ef25f8c048d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8ac35fffe26e7b7153e3f6d11194e4ab26595be">
+        <dex dex="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e2880653707d4d4d6591f4d1994b0f02431aae53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\gabri\Desktop\Positivo\Sistemas Embarcados I\CarrinhoRemoto2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_47c78d4945e1dded5ce1487feb94b0d54af9dde1\classes.dex" />
+    </item>
+
+</items>
